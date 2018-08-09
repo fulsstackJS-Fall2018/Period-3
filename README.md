@@ -1,7 +1,7 @@
-# Period-3 
+# Period-3 (This Description is not yet complete)
+
 ### Using Geo-information on clients and servers
 
-# This Description is not yet complete
 
 *In this period we will refresh our knowledge related to React Native mainly focusing on geo-location features, Introduce GeoJSON, and how to use it with MongoDB, and continue with the mini project*
 

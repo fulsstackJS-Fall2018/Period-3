@@ -19,7 +19,7 @@ Before this lesson you should read these two articles:
 
 
 **Exercises:** 
-[Getting Started with GeoJSON](https://docs.google.com/document/d/1AmOU_c_ELEyn522X1j8rFnfUAt7u8fMpvH7t-KshS1s/edit?usp=sharing)
+[Getting Started with GeoJSON](https://docs.google.com/document/d/1AmOU_c_ELEyn522X1j8rFnfUAt7u8fMpvH7t-KshS1s/edit?usp=sharing) (wee will do this together in the class, or at least get started)
 
 
 ## (This Period is not yet complete)

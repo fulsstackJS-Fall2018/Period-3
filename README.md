@@ -8,7 +8,7 @@
 ## [Learning Goals Period 3](https://docs.google.com/document/d/12WHBIzeT0mh0ZWmwFKufTJFTdQy007sZich9XWApW48/edit?usp=sharing)
 
 ## 22-10-Monday
-* a quick introduction GeoJSON
+* A quick introduction Geo-location and GeoJSON 
 * How to use geospatial queries in MongoDB (using mongoose)
 
 #### Before this lesson you should:
@@ -21,5 +21,7 @@ Before this lesson you should read these two articles:
 **Exercises:** 
 [Getting Started with GeoJSON](https://docs.google.com/document/d/1AmOU_c_ELEyn522X1j8rFnfUAt7u8fMpvH7t-KshS1s/edit?usp=sharing) (wee will do this together in the class, or at least get started)
 
+#### Slides
+[geoLocation - a very quick intro](https://docs.google.com/presentation/d/1vrHg25THjO3nar--glMoolsrVhzZRg4rc_khqdVn4sU/edit#slide=id.p1)
 
 ## (This Period is not yet complete)

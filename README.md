@@ -21,6 +21,8 @@ Before this lesson you should read these two articles:
 **Exercises:** 
 [Getting Started with GeoJSON](https://docs.google.com/document/d/1AmOU_c_ELEyn522X1j8rFnfUAt7u8fMpvH7t-KshS1s/edit?usp=sharing) (wee will do this together in the class, or at least get started)
 
+[Snippet-file](https://docs.google.com/document/d/10tJmEpsGLNznZfH1pg_Vt2aj6Px5deCL4fxq2OsLXEo/edit?usp=sharing)
+
 #### Slides
 [geoLocation - a very quick intro](https://docs.google.com/presentation/d/1vrHg25THjO3nar--glMoolsrVhzZRg4rc_khqdVn4sU/edit?usp=sharing)
 

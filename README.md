@@ -28,18 +28,18 @@
 
 GeoJson and Geospatial Queries Continued
 
-#### Before this lesson you should:
+#### Before this lesson you should read/skim:
 - [Quick guide to MongoDB Geospatial Queries](http://thecodebarbarian.com/80-20-guide-to-mongodb-geospatial-queries)
 - [Using GeoJson](https://mongoosejs.com/docs/geojson.html) (links to the document above)
 - Skim only [GeoSpatial Queries](https://docs.mongodb.com/manual/geospatial-queries/#geospatial-indexes) (The official MongoDB documentation)
 
 **Exercises:**
-* [Implement the (location related) Rest-API for the mini-project](https://docs.google.com/document/d/1s_W83hYp91qNrI5Dy39O_GvFUnTmutvSyHcGDnQFJHw/edit?usp=sharing
+* [Implement the (location related) Rest-API for the mini-project](https://docs.google.com/document/d/1s_W83hYp91qNrI5Dy39O_GvFUnTmutvSyHcGDnQFJHw/edit?usp=sharing)
 
 
-## 11-04 -Wednesday
+## 5-11 - Monday
 
-React Native Recap, speciallly focused on "Geo-handling"
+React Native Recap, speciallly focused on Geolocation
 
 ### Before this lesson you should:
 Make sure, before this lesson, to refresh your knowledge related to React Native.
@@ -56,7 +56,7 @@ Skim the documentation for these two Expo-APIs which are both necessary for the 
 **Exercises:** 
 [React Native Recap](https://docs.google.com/document/d/1KRwv93xe0AXYVQVr-qEm9xuJmmc2vmG-iAe3iuWplP0/edit?usp=sharing)
 
-## 18-04 -Wednesday
+## 12-11 Monday
 * React Native Recap continued
 
 **Exercises:** 

@@ -63,7 +63,7 @@ Skim the documentation for these two Expo-APIs which are both necessary for the 
 [Mini Project, part3](https://docs.google.com/document/d/1rePwGnH53JpAnjctJV6ew-x43HA96W-8R0dnIIqvCcc/edit?usp=sharing)
 
 
-## 19-4-Thuersday
+## 19-11-Thuersday
 ### Mini Project - part2
 
 **Exercises:** 

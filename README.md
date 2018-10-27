@@ -63,16 +63,16 @@ Skim the documentation for these two Expo-APIs which are both necessary for the 
 [Mini Project, part3](https://docs.google.com/document/d/1rePwGnH53JpAnjctJV6ew-x43HA96W-8R0dnIIqvCcc/edit?usp=sharing)
 
 
-## 19-11-Thuersday
+## 19-11 Monday
 ### Mini Project - part2
 
 **Exercises:** 
 [Mini Project, part3](https://docs.google.com/document/d/1rePwGnH53JpAnjctJV6ew-x43HA96W-8R0dnIIqvCcc/edit?usp=sharing)
 
 ### Period Milestones
-#### Period Hand-in: April 22 18.00
+#### Period Hand-in: 25-11-18.00
 What you have to hand in is (remember, you can do this in groups):
  - [The "must do now part" of the mini-project backend](https://docs.google.com/document/d/1s_W83hYp91qNrI5Dy39O_GvFUnTmutvSyHcGDnQFJHw/edit?usp=sharing) (you will get time for the rest, next week)
  - [Mini Project - React Native Client](https://docs.google.com/document/d/1rePwGnH53JpAnjctJV6ew-x43HA96W-8R0dnIIqvCcc/edit?usp=sharing)
 
-[Hand-in Document](https://docs.google.com/spreadsheets/d/1kZrm8Dmx90otINNoICzUhCo7I7eSJZq1wrc-ErsPsVU/edit?usp=sharing) 
+[Hand-in Document TBD](#) 

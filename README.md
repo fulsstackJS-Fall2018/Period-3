@@ -53,6 +53,7 @@ Skim the documentation for these two Expo-APIs which are both necessary for the 
 - [Map-View](https://docs.expo.io/versions/v26.0.0/sdk/map-view)
 
 
+
 **Exercises:** 
 [React Native Recap](https://docs.google.com/document/d/1KRwv93xe0AXYVQVr-qEm9xuJmmc2vmG-iAe3iuWplP0/edit?usp=sharing)
 

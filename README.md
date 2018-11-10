@@ -58,7 +58,11 @@ Skim the documentation for these two Expo-APIs which are both necessary for the 
 [React Native Recap](https://docs.google.com/document/d/1KRwv93xe0AXYVQVr-qEm9xuJmmc2vmG-iAe3iuWplP0/edit?usp=sharing)
 
 ## 12-11 Monday
-* React Native Recap continued
+
+### Before this lesson you should (Yellow, Red Students only):
+[Expo Push Notifications](https://docs.expo.io/versions/v31.0.0/guides/push-notifications) Read about Push Notification, and how easy it is to get started with Expo
+
+_Primarily the last two days in this period should be spent on the mini-project. Unless you plan to end in the (very) low end of the grading scale, it must be deployed (backend on DO, and mobile client to expo). You will be expected to demo your solution if to "draw" this topic for the exam._
 
 **Exercises:** 
 [Mini Project, part3](https://docs.google.com/document/d/1rePwGnH53JpAnjctJV6ew-x43HA96W-8R0dnIIqvCcc/edit?usp=sharing)

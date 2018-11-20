@@ -79,5 +79,8 @@ _Primarily the last two days in this period should be spent on the mini-project.
 What you have to hand in is (remember, you can do this in groups):
  - [The mini-project backend](https://docs.google.com/document/d/1s_W83hYp91qNrI5Dy39O_GvFUnTmutvSyHcGDnQFJHw/edit?usp=sharing)
  - [Mini Project - React Native Client](https://docs.google.com/document/d/1rePwGnH53JpAnjctJV6ew-x43HA96W-8R0dnIIqvCcc/edit?usp=sharing)
+- Links to your hosted Backend + App
 
-[Hand-in Document TBD](#) 
+[Hand-in Document TBD](https://docs.google.com/spreadsheets/d/14Ca7iz0w5-ww81P6ry5OxtaYi7N-ApzUulGUmQlEn-A/edit?usp=sharing) 
+
+Please observe the three links in the document above. Your project must be hosted, this is what I will test
